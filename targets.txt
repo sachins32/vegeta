@@ -1,0 +1,2 @@
+POST http://localhost:81/predict
+@/home/sachin/workspace/vegeta/post.json
