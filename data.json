@@ -1,0 +1,60 @@
+{
+    "data": {
+        "names": [
+            "is_City",
+            "is_PostalCode",
+            "is_Medicare_Part_B_Date_Current__c",
+            "is_MobilePhone",
+            "Country_United States",
+            "State_Michigan",
+            "Coverage_Multi__c_Medicare Supplement (Medigap)",
+            "Lead_Created_Date_Time_Category__c_2. After Hours - Weekday",
+            "LeadSource_MedicareFAQ - Online",
+            "Lead_Ad_Campaign__c_search",
+            "Lead_Ad_Group__c_p",
+            "Lead_Browser__c_safari",
+            "Lead_Device__c_tablet",
+            "Lead_Medium__c_search",
+            "Lead_Network__c_g",
+            "Lead_Ad_Source__c_Google",
+            "Gender__c_Female",
+            "Phone_Ad_Type__c_google",
+            "Lead_Operating_System__c_Mac OS",
+            "scaled_age",
+            "All_Email_Fields_Blank__c",
+            "SMSOptIn__c",
+            "medical",
+            "plan",
+            "supplement"
+        ],
+        "ndarray": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                20,
+                "true",
+                "true",
+                0.5773502691896258,
+                0.5773502691896258,
+                0.5773502691896258
+            ]
+        ]
+    }
+ }
