@@ -1,2 +1,2 @@
-POST https://stage.predera.com/models/h20-automl-lead-scoring-lead-scoring-latest/api/v1.0/predictions
-@/home/sachin/workspace/vegeta/data.json
+POST http://seldon-26a53779da01191876d9282f0f10162a.kai.svc.cluster.local:8000/api/v1.0/predictions
+@data.json
