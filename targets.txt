@@ -1,2 +1,2 @@
-POST http://localhost:81/predict
-@post.json
+POST http://logger.default/predict
+@data.json
